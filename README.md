@@ -1,6 +1,6 @@
 # earlybird-checkup-list
 # This script is an automated script of earlybird checkup list.
-# This script is developed by Phyo Sithu Maung on 1O:00 AM Nov-24-2026 on Yangon.
+# This script is developed by Phyo Sithu Maung on 10:00 AM Nov-24-2026 on Yangon.
 # 
 ##########################    PURPOSE  ################################
 # I have developed this script from windows built-in commands and easy to get report on script current directory.

@@ -11,7 +11,7 @@
 
 
 
-#(2) Customized CMS System 
+# (2) Customized CMS System 
 # We are proudly presented as our own customized CMS System like "wordpress". 
 # This is version 1, We are developing for more improvement. 
 # You see the installation guide of our Customized CMS system.

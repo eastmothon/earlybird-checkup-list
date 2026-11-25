@@ -1,0 +1,24 @@
+Custom-CMS Installation Guide 
+
+Requirements :  
+OS Platform -----   Linux Server (Ubuntu, CentOS, RedHat) & Windows 
+If Windows  -----   XAMPP, WAMPP (compactable web server required) 
+Web Server  -----   Apache, Nginx,
+Database    -----   MySQL, MariaDB
+Language    -----   php 8.xx
+
+
+# Install Web Server ( Apache (or) Nginx in Linux) and XAMPP (or) WAMPP in Windows.
+
+# copy and unzip the zip installer file in /www/html/ (or) /www/htdocs ( Web root folder).
+
+# Then, open http://localhost/custom-cms/install.php in your web browser(i.e. Mozilla Firefox (or) Google Chrome).
+
+# Enter your database details and the Admin username, email, and password, then click "Install Custom CMS Now."
+
+# Once completed, delete `install.php` for security reasons; you can then access the system via "Go to Admin Login."
+
+
+You're all set! 
+
+# If you needs any techncial support about installation, please feel free to contact to mme.

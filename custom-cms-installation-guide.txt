@@ -5,7 +5,8 @@ OS Platform -----   Linux Server (Ubuntu, CentOS, RedHat) & Windows
 If Windows  -----   XAMPP, WAMPP (compactable web server required) 
 Web Server  -----   Apache, Nginx,
 Database    -----   MySQL, MariaDB
-Language    -----   php 8.xx
+Language    -----   php 8.0 and above
+Version     ------  1.0
 
 
 # Install Web Server ( Apache (or) Nginx in Linux) and XAMPP (or) WAMPP in Windows.
@@ -21,4 +22,8 @@ Language    -----   php 8.xx
 
 You're all set! 
 
-# If you needs any techncial support about installation, please feel free to contact to mme.
+# If you needs any technical support about installation, please feel free to contact to me.
+
+# Version (1)
+# Since this version is under developer mode, we needs to enhanced some bug fixed.
+
